@@ -1,5 +1,8 @@
 # pytrafficflow
 
+A Python library for traffic flow simulation with PDE models, particle-based models, and real-world data pipelines
+
+[!car image]()
 
 
 ## Architecture
