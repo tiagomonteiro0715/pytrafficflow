@@ -32,8 +32,3 @@ pytrafficflow/
 
 
 ## BibTeX
-
-
-## Founders of the project:
-
-5 master of science in AI students in northeatern university
