@@ -2,7 +2,8 @@
 
 A Python library for traffic flow simulation with PDE models, particle-based models, and real-world data pipelines
 
-[!car image]()
+
+![car image](https://github.com/tiagomonteiro0715/pytrafficflow/blob/main/traffic_image.png)
 
 
 ## Architecture
