@@ -1,3 +1,12 @@
+<!-- 
+pip install build
+python -m build
+pip install twine
+twine upload dist/*
+-->
+
+
+
 # pytrafficflow
 
 A Python library for traffic flow simulation with PDE models, particle-based models, and real-world data pipelines
