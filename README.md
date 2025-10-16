@@ -47,7 +47,12 @@ This project builds upon the foundational research of Dr. Nadim Saad, whose PhD 
 ## Project Founders
 
 Tiago Monteiro - monteiro.t@northeastern.edu
+
 Julian Zhou - zhou.zher@northeastern.edu
+
 Muhammed Bilal - Bilal.muh@northeastern.edu
+
 Joey Ebrahim - ebrahim.y@northeastern.edu
+
 Zhidian - shdityr03@gmail.com
+
