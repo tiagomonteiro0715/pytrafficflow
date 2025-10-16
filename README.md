@@ -40,4 +40,14 @@ pytrafficflow/
 ## Citation
 
 
-## BibTeX
+## Acknowledgments
+
+This project builds upon the foundational research of Dr. Nadim Saad, whose PhD thesis at Stanford, "Nonlinear Coupled Systems of PDEs for Modeling of Multi-Lane Traffic Flow Problems," provided the framework for this Python Library.
+
+## Project Founders
+
+Tiago Monteiro - monteiro.t@northeastern.edu
+Julian Zhou - zhou.zher@northeastern.edu
+Muhammed Bilal - Bilal.muh@northeastern.edu
+Joey Ebrahim - ebrahim.y@northeastern.edu
+Zhidian - shdityr03@gmail.com
