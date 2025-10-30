@@ -37,9 +37,6 @@ pytrafficflow/
     └── visualization.py
 ```
 
-## Citation
-
-
 ## Acknowledgments
 
 This project builds upon the foundational research of Dr. Nadim Saad, whose PhD thesis at Stanford, "Nonlinear Coupled Systems of PDEs for Modeling of Multi-Lane Traffic Flow Problems," provided the framework for this Python Library.
